@@ -1,6 +1,6 @@
 # Quack Toolkit
 
-![quack](https://user-images.githubusercontent.com/54115104/74247189-c04a9300-4cf6-11ea-982a-2222329215bd.jpeg)
+<h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91619952-3d89dc80-e997-11ea-9411-b729c3d49eb4.png" alt="logo" height="250px"></h3>
 
 <p align="center">
   <a href="http://entynetproject.simplesite.com/">
