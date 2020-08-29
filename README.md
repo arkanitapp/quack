@@ -21,9 +21,6 @@
   <a href="https://twitter.com/entynetproject">
     <img src="https://img.shields.io/badge/twitter-entynetproject-blue.svg">
  </a>
-  <a href="https://github.com/LimerBoy/Impulse">
-    <img src="https://img.shields.io/badge/based%20on-Impulse-red.svg">
- </a>
 </p>
 
 ***
