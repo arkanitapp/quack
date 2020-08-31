@@ -5,7 +5,7 @@
 			"data": "{'reset_by':'phone', 'action_id':'pass-recovery', 'phone': '%phone5%', '_token':'*'}"
 		},
 		{
-			"url": "https://www.rabota.ru/remind",
+			"url": "https://www.appmobiel.bloogspot.com",
 			"data": "{'credential': '%phone%'}"
 		},
 		{
